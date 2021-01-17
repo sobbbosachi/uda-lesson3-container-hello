@@ -1,4 +1,2 @@
 # uda-lesson3-container-hello
-Udacity Microservice lesson 3 hello 
-# hello
-# Sobbosachi
+[![CircleCI](https://circleci.com/gh/sobbosachi/uda-lesson3-container-hello.svg?style=svg)](https://circleci.com/gh/sobbosachi/uda-lesson3-container-hello)
